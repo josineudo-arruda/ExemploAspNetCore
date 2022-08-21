@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = "Formulario";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Cadastro de usuário</h1>
+    <p>Preencha o formulário abaixo</p>
+
+        <form action="TesteFormData" method="post"> 
+            <p>
+                <label for="nome">Nome Inteiro</label>
+                <input type="text" style="width:450px" name="nome" id="nome">
+            </p>
+            <p>
+                <label for="email">E-mail</label>
+                <input type="text" style="width:224px" name="email" id="email">
+                <label for="senha">Senha</label>
+                <input type="password" style="width:224px" name="senha" id="senha">
+            </p>
+            <p>
+                <input type="submit" style="width:546px" value="Enviar">
+            </p>
+            
+        </form>
+</div>

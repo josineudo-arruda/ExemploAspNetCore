@@ -1,0 +1,52 @@
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\bin\Debug\net6.0\appsettings.json
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\bin\Debug\net6.0\ExemploAspNestMvc.staticwebassets.runtime.json
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\bin\Debug\net6.0\ExemploAspNestMvc.exe
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\bin\Debug\net6.0\ExemploAspNestMvc.deps.json
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\bin\Debug\net6.0\ExemploAspNestMvc.runtimeconfig.json
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\bin\Debug\net6.0\ExemploAspNestMvc.dll
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\bin\Debug\net6.0\ExemploAspNestMvc.pdb
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.csproj.AssemblyReference.cache
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.AssemblyInfoInputs.cache
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.AssemblyInfo.cs
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.csproj.CoreCompileInputs.cache
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.RazorAssemblyInfo.cache
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.RazorAssemblyInfo.cs
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\scopedcss\bundle\ExemploAspNestMvc.styles.css
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\scopedcss\projectbundle\ExemploAspNestMvc.bundle.scp.css
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.dll
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\refint\ExemploAspNestMvc.dll
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.pdb
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ExemploAspNestMvc.genruntimeconfig.cache
+C:\Users\IFSP\Desktop\SP3045544\ExemploAspNestMvc\obj\Debug\net6.0\ref\ExemploAspNestMvc.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.csproj.AssemblyReference.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.AssemblyInfoInputs.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.AssemblyInfo.cs
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.csproj.CoreCompileInputs.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.RazorAssemblyInfo.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.RazorAssemblyInfo.cs
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\refint\ExemploAspNestMvc.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.pdb
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\bin\Debug\net6.0\appsettings.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNestMvc.staticwebassets.runtime.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNestMvc.exe
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNestMvc.deps.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNestMvc.runtimeconfig.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNestMvc.dll
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\bin\Debug\net6.0\ExemploAspNestMvc.pdb
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\bundle\ExemploAspNestMvc.styles.css
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\scopedcss\projectbundle\ExemploAspNestMvc.bundle.scp.css
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ExemploAspNestMvc.genruntimeconfig.cache
+C:\Users\JosineudoArruda\Documents\TERCEIRO ANO IFSP\Técnico\LGC3\2 Semestre\3 Bimestre\ExemploAspNetMvc\obj\Debug\net6.0\ref\ExemploAspNestMvc.dll
